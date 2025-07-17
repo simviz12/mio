@@ -1,0 +1,1 @@
+print("ricky.py")
